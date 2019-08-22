@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 ## My awesome script
 
 # pseudocode for excellent workflow
 
 # brilliant software design
 
+=======
+>>>>>>> parent of dbdf56e... adding title
